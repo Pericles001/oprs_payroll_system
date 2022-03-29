@@ -93,7 +93,7 @@ The database which is used in this project is called `payroll` and it is managed
  
  You can install the project by running the following command:
   * git clone ![](https://github.com/Pericles001/oprs_payroll_system.git)
-  * cd oprs_payroll_system
+  * cd oprs_payroll_system/app
   * composer install
   * mv .env.example .env
   * php artisan key:generate
@@ -110,6 +110,8 @@ The database which is used in this project is called `payroll` and it is managed
 
   * username: | `root` | `root` | 
   * password: | `root` | `root` |
+
+*Credentials will be given sooner*
 
 ## Contributors
 ![AUTHORS](./AUTHORS)
