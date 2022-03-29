@@ -52,6 +52,31 @@ Two users are defined:
   * **Leaves visualisation**: It allows employee to ask or view his/her leaves.
 
 
+#### Login page
+
+![login page](./resources/screenshots/0_login_screen.png)
+
+
+
+#### Welcome page
+
+![profile page](./resources/screenshots/1_welcome_page.png)
+
+#### Profile update page
+![update profile](./resources/screenshots/2_profile_modification.png)
+
+#### Employee creation page
+![employee creation](./resources/screenshots/3_create_employee.png) 
+
+#### Users list page
+![users list](./resources/screenshots/4_list_user.png)
+
+
+#### Payroll management page
+![payroll management](./resources/screenshots/5_manage_payroll.png)
+
+
+
 ## Requirements
  
  You need to have the following requirements installed to run the project:
