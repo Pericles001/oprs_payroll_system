@@ -20,7 +20,7 @@ tasks.
 
 ### Site map
 
-![Sitemap](./resources/diagrams/persona-based-task-flow-diagram%20(1).png)
+![Sitemap](./resources/diagrams/site_map.drawio.png)
 
 
 ### Users
